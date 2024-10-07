@@ -8,5 +8,5 @@ The code will be released soon.
 
 A little easter egg - Cheems(Balltze). At the beginning of 2023, when I was reflecting on the "feature fusion" paradigm and planning to conduct in-depth research, Cheems started appearing frequently on my social media. I really liked it, and every time I saw it, I felt a surge of joy. However, it had left this world before I could finish this paper. To commemorate it, I included its most memorable image in the main illustration of my paper. I am grateful for cute little animals like Cheems, who heal our hearts.
 <p align="center">
-  <img src="figs/sni.png" alt="" width="400" />
+  <img src="https://github.com/AlanLi1997/rethinking-fpn/blob/main/figs/sni.png" alt="" width="500" />
 </p>
