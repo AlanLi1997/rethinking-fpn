@@ -4,8 +4,7 @@
 
 (I would like to call it _Slim Neck V2_. V1 is the [_Slim Neck by GSConv_](https://github.com/AlanLi1997/slim-neck-by-gsconv).😀)
 
-We will immediately release the code once the paper is published by the Springer (this work can be cited normally).
-
+Balltze's birthday is November 6th. We plan to release the code on November 16th, ten days after its birthday.
 
 A little easter egg - Cheems(Balltze). At the beginning of 2023, when I was reflecting on the "feature fusion" paradigm and planning to conduct in-depth research, Cheems started appearing frequently on my social media. I really liked it, and every time I saw it, I felt a surge of joy. However, it had left this world before I could finish this paper. To commemorate it, I included its most memorable image in the main illustration of my paper. I am grateful for cute little animals like Cheems, who heal our hearts.
 <p align="center">
