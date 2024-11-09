@@ -1,4 +1,4 @@
-# ECCV 2024: [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://eccv.ecva.net/virtual/2024/poster/1537)
+# ECCV 2024: [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-72855-6_5)
 (事实上我想把这个工作称为 _Slim Neck V2_. 因为这是我继 [_Slim Neck by GSConv_](https://github.com/AlanLi1997/slim-neck-by-gsconv) 后的工作😀)
 
 我们会在Springer发表论文后立即发布代码.
