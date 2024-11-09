@@ -1,4 +1,4 @@
-# ECCV 2024: [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://eccv.ecva.net/virtual/2024/poster/1537)
+# ECCV 2024: [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-72855-6_5)
 
 [English](README.md) | [简体中文](README-zh-CN.md)
 
