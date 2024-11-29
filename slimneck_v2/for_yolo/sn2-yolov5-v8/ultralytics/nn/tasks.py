@@ -397,8 +397,8 @@ def parse_model(d, ch, verbose=True):  # model_dict, input_channels(3)
                 n = 1
 
         elif m is SNI:
-            up_f = args[0]
-            args = [up_f]
+            c1, c2, up_f = ch[f], make_divisible(args[0] * gw, 8), args[1]
+            args = [c1, c2, up_f]
 
         elif m is nn.BatchNorm2d:
             args = [ch[f]]
