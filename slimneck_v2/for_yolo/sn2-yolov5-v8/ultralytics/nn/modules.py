@@ -27,7 +27,7 @@ class SNI(nn.Module):
     soft nearest neighbor interpolation for up-sampling
     secondary features aligned
     '''
-    def __init__(self, up_f=2):
+    def __init__(self, c1=0, c2=0, up_f=2):
         super(SNI, self).__init__()
         self.us = nn.Upsample(None, up_f, 'nearest')
         self.alpha = 1/(up_f**2)
